@@ -1,0 +1,13 @@
+Ozan Erdoğan;1721012067;95;80
+Omer Bashekin;1721012012;80;90
+Mustafa Dag;1721012001;90;95
+Elon Musk;1721012065;100;100
+John Hennigan;1721012034;50;67
+Evrim Agaci;1721012045;98;98
+Burhan Altintop;1721012048;75;40
+Mike Tyson;1721012022;35;95
+Star Atlas;80;80;80
+Baris Ozcan;100;100;100
+Fenerbahce;200;200;200;
+Satoshi Nakamoto;300;300;300
+Mark Henry;400;400;400
